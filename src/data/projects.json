@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to Booking Tour ",
+      "skills": ["Drupal", "JSON", "ReactJS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "A Real Estate Website for Realtors",
+      "skills": ["Python", "Django", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a School Management system ",
+      "skills": ["Django", "SASS", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
